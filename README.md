@@ -6,4 +6,6 @@
 - Prisma
 - tRPC
 - Vercel
+- Shadcn components
+
 

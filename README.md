@@ -7,5 +7,7 @@
 - tRPC
 - Vercel
 - Shadcn components
+- Clerk
+
 
 

@@ -8,7 +8,7 @@ export const POST = async (req: Request) => {
   const { data } = await req.json()
   console.log('clerk webhook received', data)
   //const emailAddress = data.email_addresses[0].email_address
-  const emailAddress = "test@test.com"
+  const emailAddress = "test1@test.com"
   const firstName = data.first_name
   const lastName = data.last_name
   const imageUrl = data.image_url

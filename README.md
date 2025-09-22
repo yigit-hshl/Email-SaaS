@@ -8,6 +8,9 @@
 - Vercel
 - Shadcn components
 - Clerk
+- OpenAI
+- Stripe
+
 
 
 
